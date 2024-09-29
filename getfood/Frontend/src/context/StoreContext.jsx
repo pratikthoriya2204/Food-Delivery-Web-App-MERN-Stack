@@ -46,7 +46,7 @@ const StoreContextProvider = (props)=>{
         getTotalCartAmount,
         url,
         token,
-        setToken
+        setToken,
     }
 
     return(
